@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Africa - Zambia"
-description: Walking with cheetah, playing with lion and watching elephents massage? This is amazing Zambia 
+description: Walking with cheetah, playing with lion and watching elephents message? This is amazing Zambia 
 date:  2016-12-14 
 categories: Travel
 img: Zambiacover.jpg
