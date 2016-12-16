@@ -8,8 +8,9 @@ img: Zambiacover.jpg
 color: 'D68910'
 author: Kane Pan
 permalink: /zambia/
-width: small
+
 ---
+
 
 出差去了2周赞比亚,利用周末的时间好好邻略了一次大自然的风光。和猎豹散步，狮子自拍还有美丽的世界三大瀑布之一维多利亚瀑布。
 由于是出差就不存在研究酒店和机票的反正公司搞定。 一些注意点：
