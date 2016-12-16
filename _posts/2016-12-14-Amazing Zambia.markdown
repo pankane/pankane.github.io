@@ -7,7 +7,7 @@ categories: Travel
 img: Zambiacover.jpg
 color: 'D68910'
 author: Kane Pan
-permalink: /small/
+permalink: /zambia/
 width: small
 ---
 
