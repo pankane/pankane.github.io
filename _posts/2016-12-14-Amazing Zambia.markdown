@@ -5,7 +5,8 @@ description: Walking with cheetah, playing with lion and watching elephents mess
 date:  2016-12-14 
 categories: Travel
 img: Zambiacover.jpg
-color: 'D68910'
+color: '31B404'
+categories: [one, one]
 author: Kane Pan
 permalink: /zambia/
 
