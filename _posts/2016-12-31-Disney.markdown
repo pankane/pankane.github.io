@@ -64,7 +64,7 @@ Magic Kingdom尤其梦幻，特地录了下来
 
 
 
-<embed src='http://player.youku.com/player.php/sid/XMTg5NjUyNzA5Ng==/v.swf' allowFullScreen='true' quality='high' width='800' height='600' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'>
+<embed src='http://player.youku.com/player.php/sid/XMTg5NjUyNzA5Ng==/v.swf' allowFullScreen='true' quality='high' width='800' height='600' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 
 
