@@ -8,4 +8,8 @@ img: West coast.jpg
 color: '173B0B'
 author: Kane Pan
 permalink: /west coast/
+---
+
+Coming soon!
+
 

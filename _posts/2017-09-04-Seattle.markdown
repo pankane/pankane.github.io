@@ -8,3 +8,6 @@ img: Mount Rainier.jpg
 color: '173B0B'
 author: Kane Pan
 permalink: /Seatlle/
+---
+
+Coming soon!
