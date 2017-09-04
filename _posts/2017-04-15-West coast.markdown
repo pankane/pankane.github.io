@@ -5,7 +5,7 @@ description: A journy from Green to Brown.
 date:  2017-04-15 
 categories: Travel
 img: West coast.jpg
-color: 'CC0F33'
+color: '173B0B'
 author: Kane Pan
 permalink: /west coast/
 
