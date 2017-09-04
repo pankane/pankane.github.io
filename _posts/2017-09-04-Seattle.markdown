@@ -4,7 +4,7 @@ title:  "Olympic National Park & Mount Rainier "
 description: The snow mount in the summer
 date:  2017-09-04 
 categories: Travel
-img: Mount Rainier.jpg
+img: MountRainier.jpg
 color: '#33FFBD'
 author: Kane Pan
 permalink: /Seatlle/
